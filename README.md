@@ -45,10 +45,6 @@ Neste projeto, aprimorei meus conhecimentos em:
 - Manipulação de listas e coleções em C# 📋
 - Estruturação de um projeto seguindo boas práticas 🏗️
 
-## 📜 Licença
-
-Este projeto é de código aberto e está sob a licença **MIT**.
-
 ---
 
 🎵 **ScreenSound.V2 - A sua biblioteca musical em C#!** 🎧
